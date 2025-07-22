@@ -40,7 +40,7 @@ const ComingSoonPage = ({ params }: { params: { project: string } }) => {
         </h2>
         <p className="text-gray-600 mb-4">{project.description}</p>
         <p className="text-gray-500 mb-6">
-          I'm working hard to launch this project soon!
+          I’m working hard to launch this project soon!
         </p>
         <a
           href="https://github.com/tht98-it"
